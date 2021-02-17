@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=spb_pcb.PcbDoc
+DocumentPath=spb_sample_pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -55,13 +55,13 @@ GenerateClassCluster=0
 DocumentUniqueId=JODYPBDA
 
 [Document2]
-DocumentPath=spb_sch1.SchDoc
+DocumentPath=spb_sample_sch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MQKKALSC
 
 [Document3]
-DocumentPath=..\Altium_lib\Active.PcbLib
+DocumentPath=..\..\Altium_lib\Active.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,10 +86,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QENJJQMW
 
 [Document4]
-DocumentPath=..\Altium_lib\MIT_Pcblib.PcbLib
+DocumentPath=..\..\Altium_lib\MIT_Pcblib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HPEVXKJR
 
 [Document5]
-DocumentPath=..\Altium_lib\MIT_Schlib.SchLib
+DocumentPath=..\..\Altium_lib\MIT_Schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FRZOOZLU
 
 [Document6]
-DocumentPath=..\Altium_lib\Passive.PcbLib
+DocumentPath=..\..\Altium_lib\Passive.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\Altium_lib\Schlib.SchLib
+DocumentPath=..\..\Altium_lib\Schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XPNYUGKN
+DocumentUniqueId=YNBGUCEA
 
 [Configuration1]
 Name=Sources
