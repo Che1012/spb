@@ -4534,7 +4534,7 @@ IO Modulec0d3d6f91aa52d1ab1ac536115803cc2IOModuleID:0x10937418,Version:1.0.0,Nat
 &lt;/Cluster&gt;
 &lt;/Array&gt;
 Local_Supply_SelectArbitrationForOutputData=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;resource=/IO Module/SignalList/Local_Supply_Select;0;WriteMethodType=U8PXI-7953R/RioClk40/falsefalseFLEXRIO_IO_MODELNI_6581FPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSPXI_7953RFPGA_TARGET_FAMILYVIRTEX5TARGET_TYPEFPGA/[rSeriesConfig.Begin][rSeriesConfig.End]</Property>
-				<Property Name="NI.LV.FPGA.InterfaceBitfile" Type="Str">C:\TIM\Project\hdsp_display\FPGA Bitfiles\displayproj_FPGATarget_target_DwzP04Y96pk.lvbitx</Property>
+				<Property Name="NI.LV.FPGA.InterfaceBitfile" Type="Str">D:\TIM\Project\spb\labview\FPGA Bitfiles\displayproj_FPGATarget_target_ybt1itgLS5Q.lvbitx</Property>
 			</Item>
 			<Item Name="Dependencies" Type="Dependencies">
 				<Item Name="vi.lib" Type="Folder">
@@ -4570,8 +4570,8 @@ Local_Supply_SelectArbitrationForOutputData=NeverArbitrate;NumberOfSyncRegisters
 					<Property Name="Comp.Xilinx.UseRecommended" Type="Bool">true</Property>
 					<Property Name="DefaultBuildSpec" Type="Bool">true</Property>
 					<Property Name="DestinationDirectory" Type="Path">FPGA Bitfiles</Property>
-					<Property Name="NI.LV.FPGA.LastCompiledBitfilePath" Type="Path">/C/TIM/Project/hdsp_display/FPGA Bitfiles/displayproj_FPGATarget_target_DwzP04Y96pk.lvbitx</Property>
-					<Property Name="NI.LV.FPGA.LastCompiledBitfilePathRelativeToProject" Type="Path">FPGA Bitfiles/displayproj_FPGATarget_target_DwzP04Y96pk.lvbitx</Property>
+					<Property Name="NI.LV.FPGA.LastCompiledBitfilePath" Type="Path">/D/TIM/Project/spb/labview/FPGA Bitfiles/displayproj_FPGATarget_target_ybt1itgLS5Q.lvbitx</Property>
+					<Property Name="NI.LV.FPGA.LastCompiledBitfilePathRelativeToProject" Type="Path">FPGA Bitfiles/displayproj_FPGATarget_target_ybt1itgLS5Q.lvbitx</Property>
 					<Property Name="ProjectPath" Type="Path">/C/TIM/Project/hdsp_display/display_proj.lvproj</Property>
 					<Property Name="RelativePath" Type="Bool">true</Property>
 					<Property Name="RunWhenLoaded" Type="Bool">false</Property>
@@ -4599,7 +4599,7 @@ Local_Supply_SelectArbitrationForOutputData=NeverArbitrate;NumberOfSyncRegisters
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 			</Item>
-			<Item Name="displayproj_FPGATarget_target_DwzP04Y96pk.lvbitx" Type="Document" URL="../FPGA Bitfiles/displayproj_FPGATarget_target_DwzP04Y96pk.lvbitx"/>
+			<Item Name="displayproj_FPGATarget_target_ybt1itgLS5Q.lvbitx" Type="Document" URL="../FPGA Bitfiles/displayproj_FPGATarget_target_ybt1itgLS5Q.lvbitx"/>
 			<Item Name="nidcpower_32.dll" Type="Document" URL="nidcpower_32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
